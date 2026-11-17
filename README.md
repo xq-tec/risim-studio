@@ -1,4 +1,6 @@
-# riSim Studio
+<img src="media/risim-logo.svg" alt="riSim logo" width="120">
+
+# [ riSim Studio ]
 
 **riSim Studio is a VHDL simulation and verification environment built into VS Code.**
 It discovers your VUnit testbenches, runs them on its own VHDL-2008 simulator, and streams live waveforms into an interactive viewer.
