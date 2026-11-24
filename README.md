@@ -141,7 +141,7 @@ The **Testbenches sidebar** lists all testcases in your project.
 
 - **Live signal updates** stream into the waveform view while the simulation runs
 - **Full run control**: run, pause, and stop from the sidebar or the waveform view
-- **Build a view from the hierarchy pane**: search for signals, add the signals you select, add a scope's signals or an entire subtree from the scope's context menu, or drag a scope onto the signal list
+- **Build a view from the hierarchy pane**: search for signals, add the signals you select, add a module's signals or an entire subtree from the module's context menu, or drag a module onto the signal list
 - **Several views per simulation**: **Open Waveform** or **New Waveform View** on a simulation row; views follow reruns of their testcase and are restored after a window reload
 - **Display options**: signal colors, separators, binary/decimal/hexadecimal radix, analog and literal drawing modes
 - **Navigation**: one-click zoom to fit, transitions and values to jump to, delta cycles, time units from femtoseconds to seconds
@@ -230,7 +230,7 @@ See the [riSim Studio Software Privacy Notice](https://risim-studio.com/privacy-
 The [riSim Studio documentation](https://risim-studio.com/docs/) contains more details:
 
 - [Getting started](https://risim-studio.com/docs/getting_started/)
-- [risim-config.toml](https://risim-studio.com/docs/getting_started/#configuration)
+- [Project configuration](https://risim-studio.com/docs/project_configuration/) and [VUnit testbenches](https://risim-studio.com/docs/vunit_testbenches/)
 - [Running testbenches in VS Code](https://risim-studio.com/docs/vscode/)
 - [Waveforms](https://risim-studio.com/docs/vscode/#waveforms)
 - [Command line](https://risim-studio.com/docs/command_line/) and [CI](https://risim-studio.com/docs/command_line/#ci)
